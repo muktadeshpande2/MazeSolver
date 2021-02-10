@@ -27,6 +27,8 @@ import pygame
 
 You have to just run the program on terminal to see the result .
 
+Link to the demo video ---> https://drive.google.com/file/d/1rjIKPw2tYZds-5yGJKPcr2pSpb9hMIiP/view?usp=sharing
+
 
 ##Mukta Girish Deshpande
 ##18UCS070
