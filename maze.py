@@ -145,8 +145,11 @@ build_maze(40, 0, 20)
 solve_maze(x_st, y_st)
 plot_route_back(x_end, y_end)
 
-while True:
+alive = True
+while alive:
     clock.tick(FPS)
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
+            alive = False
+            break
